@@ -2,7 +2,11 @@
 
 **Product & Technology Leader** · AI Product Strategy · B2B SaaS & Platforms · Organizational Transformation
 
-Product and technology leader with 18+ years of experience across mobile platforms, B2B SaaS, MarTech and digital customer engagement. I build and scale complex platform products and the teams behind them, and I build AI products hands-on today.
+Product & Technology Leader with 18+ years of experience building scalable platforms, shaping product strategy, and leading global teams. I combine enterprise technology leadership with hands-on AI product development, applying evidence-based decision-making and agentic workflows to rethink how products are built and managed.
+
+- **Product strategy and technical depth:** SuperApp and MiniApp platforms, APIs and integrations, B2B SaaS and MarTech.
+- **Global leadership and organizational scaling:** built a global technical onboarding organization fivefold across six regions.
+- **Hands-on AI product development:** applied AI products, model evaluation and agentic ways of working.
 
 [Portfolio website](https://ahsenvarlicgudel.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ahsen-varl%C4%B1-i%C3%A7g%C3%BCdel-2b785018)
 
@@ -15,14 +19,14 @@ Product and technology leader with 18+ years of experience across mobile platfor
 
 Details and sources are on the [portfolio website](https://ahsenvarlicgudel.vercel.app).
 
-## What I'm building now
+## Independent Products & AI Systems
 
-Independent AI products. They are built hands-on, are not publicly launched and have no real-user validation yet.
+Built hands-on. None is publicly launched, and none has real-user validation yet.
 
 | Product | What it is | Status |
 |---|---|---|
-| [AI Product Decision Intelligence](https://github.com/ahsenvi/product-decision-assistant-showcase) | An evidence-aware decision companion for product decisions. It keeps observed data, user claims, hypotheses and missing information visibly apart. Read-only Jira and Linear connections. | In development; runs locally |
-| [Rota](https://github.com/ahsenvi/rota-showcase) | Turns travel recommendations from blog posts and pasted captions into mapped places and an editable day-by-day plan. | Working product, private, not publicly launched |
+| [AI Product Decision Intelligence](https://github.com/ahsenvi/product-decision-assistant-showcase) | An AI-powered decision companion for product decisions, built on hosted LLM APIs. It keeps observed data, user claims, hypotheses and missing information visibly apart. Read-only Jira and Linear connections. | In development; runs locally |
+| [Rota](https://github.com/ahsenvi/rota-showcase) | Turns travel recommendations from blog posts and pasted captions into mapped places and an editable day-by-day plan. | Working product, private, not publicly launched. Rules-based extraction; no AI model is used. |
 | [Agent-based development](https://github.com/ahsenvi/product-decision-assistant-showcase/blob/main/docs/agent-based-development.md) | How I plan, build, review and ship with Claude Code agents, CI and an issue-driven workflow. | In use; limits documented |
 
 A paused project, Lumio, is documented as a [short case note](https://github.com/ahsenvi/product-decision-assistant-showcase/blob/main/docs/lumio-case.md) on what the research showed and why I stopped to reconsider scope.
@@ -33,4 +37,4 @@ Source code is private. The showcase repository documents the product decisions,
 
 - Evidence over assertion: decisions record their assumptions, trade-offs and what would make me reassess them.
 - AI as a delivery partner with explicit human approval gates, not an unattended autopilot.
-- I build with hosted LLM APIs. I'm not an AI researcher and I don't fine-tune models.
+- I focus on applied AI product development, model evaluation, agentic workflows, and responsible product decisions.
