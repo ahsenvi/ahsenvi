@@ -16,7 +16,7 @@ Product & Technology Leader with 18+ years of experience building scalable platf
 - **Insider One**: Head of Technical Client Onboarding. Built and scaled a global technical onboarding organization fivefold across six regions and supported 300+ enterprise onboardings.
 - **SAP Emarsys**: Senior Product Implementation Consultant. Enterprise marketing-technology implementations, API integrations and customer onboarding.
 - **Asseco SEE**: Senior Product Development Architect. Shaped requirements and solution architecture for banking and fraud-prevention products, including regulatory reporting, working with major banks and financial institutions.
-- **Cybersoft** (9 years): Four years in software engineering, then Product and Engineering Manager for banking and public-sector financial products, owning requirements, solution design and delivery coordination and leading technical teams, mentoring and engineering recruitment.
+- **Cybersoft** : Four years in software engineering, then Product and Engineering Manager for banking and public-sector financial products, owning requirements, solution design and delivery coordination and leading technical teams, mentoring and engineering recruitment.
 
 Details and sources are on the [portfolio website](https://ahsenvarlicgudel.vercel.app).
 
