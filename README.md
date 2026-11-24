@@ -22,7 +22,7 @@ Independent AI products. They are built hands-on, are not publicly launched and 
 | Product | What it is | Status |
 |---|---|---|
 | [AI Product Decision Intelligence](https://github.com/ahsenvi/product-decision-assistant-showcase) | An evidence-aware decision companion for product decisions. It keeps observed data, user claims, hypotheses and missing information visibly apart. Read-only Jira and Linear connections. | In development; runs locally |
-| Rota | Turns travel recommendations from blog posts and pasted captions into mapped places and an editable day-by-day plan. | Working product, private, not publicly launched |
+| [Rota](https://github.com/ahsenvi/rota-showcase) | Turns travel recommendations from blog posts and pasted captions into mapped places and an editable day-by-day plan. | Working product, private, not publicly launched |
 | [Agent-based development](https://github.com/ahsenvi/product-decision-assistant-showcase/blob/main/docs/agent-based-development.md) | How I plan, build, review and ship with Claude Code agents, CI and an issue-driven workflow. | In use; limits documented |
 
 Source code is private. The showcase repository documents the product decisions, trade-offs, evaluations and their limits.
