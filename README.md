@@ -4,7 +4,7 @@
 
 Product & Technology Leader with 18+ years of experience building scalable platforms, shaping product strategy, and leading global teams. I combine enterprise technology leadership with hands-on AI product development, applying evidence-based decision-making and agentic workflows to rethink how products are built and managed.
 
-- **Product strategy and technical depth:** SuperApp and MiniApp platforms, APIs and integrations, B2B SaaS and MarTech.
+- **Product strategy and technical depth:** SuperApp and MiniApp platforms, APIs and integrations, B2B SaaS, MarTech and fintech (banking and public-sector financial products).
 - **Global leadership and organizational scaling:** built a global technical onboarding organization fivefold across six regions.
 - **Hands-on AI product development:** applied AI products, model evaluation and agentic ways of working.
 
@@ -15,7 +15,8 @@ Product & Technology Leader with 18+ years of experience building scalable platf
 - **KOBIL**: Director, Technical Product Management. Led product strategy and roadmap for a city SuperApp, a secure single-sign-on platform connecting MiniApps, payments, chat and digital signatures. Led Product Owners and QA Engineers.
 - **Insider One**: Head of Technical Client Onboarding. Built and scaled a global technical onboarding organization fivefold across six regions and supported 300+ enterprise onboardings.
 - **SAP Emarsys**: Senior Product Implementation Consultant. Enterprise marketing-technology implementations, API integrations and customer onboarding.
-- **Asseco SEE and Cybersoft**: Banking and financial technology, product architecture and enterprise systems.
+- **Asseco SEE**: Senior Product Development Architect. Shaped requirements and solution architecture for banking and fraud-prevention products, including regulatory reporting, working with major banks and financial institutions.
+- **Cybersoft** (9 years): Four years in software engineering, then Product and Engineering Manager for banking and public-sector financial products, owning requirements, solution design and delivery coordination and leading technical teams, mentoring and engineering recruitment.
 
 Details and sources are on the [portfolio website](https://ahsenvarlicgudel.vercel.app).
 
