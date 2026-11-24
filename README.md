@@ -25,6 +25,8 @@ Independent AI products. They are built hands-on, are not publicly launched and 
 | [Rota](https://github.com/ahsenvi/rota-showcase) | Turns travel recommendations from blog posts and pasted captions into mapped places and an editable day-by-day plan. | Working product, private, not publicly launched |
 | [Agent-based development](https://github.com/ahsenvi/product-decision-assistant-showcase/blob/main/docs/agent-based-development.md) | How I plan, build, review and ship with Claude Code agents, CI and an issue-driven workflow. | In use; limits documented |
 
+A paused project, Lumio, is documented as a [short case note](https://github.com/ahsenvi/product-decision-assistant-showcase/blob/main/docs/lumio-case.md) on what the research showed and why I stopped to reconsider scope.
+
 Source code is private. The showcase repository documents the product decisions, trade-offs, evaluations and their limits.
 
 ## How I work
